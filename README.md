@@ -251,8 +251,8 @@ Through this project, I gained hands-on experience with:
 **BTech Computer Science Engineering**  
 **VIT Bhopal University**  
 
-GitHub: [@aditichoudhary2712](https://github.com/aditichoudhary2712)  
-Repository: [StudentManagementSystem](https://github.com/aditichoudhary2712/StudentManagementSystem)
+GitHub:  arnavsinghal006-star
+Repository: README.md
 
 ## License
 
